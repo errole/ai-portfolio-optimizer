@@ -21,7 +21,6 @@ ai-portfolio-optimizer/
 |- requirements.txt   # Dependencies
 |- Script.sh          # Quick start script
 |- README.md
-`- src/               # (Currently empty; reserved for modularization)
 ```
 
 ## Installation
